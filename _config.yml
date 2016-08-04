@@ -1,4 +1,3 @@
-layout_spectrum: 0.8653054158203304
 typography_spectrum: 0.4288478004746139
 color:
   brandStrength: 0.09718379727564752
@@ -11,5 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+layout_spectrum: 0.8653054158203304
 name: Deakin Creative
 title: SPREAD THE WORD
+description: Get your message out there.
